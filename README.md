@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I’m Anuj
 
-<!--
-**AnujMongia1/AnujMongia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year Computer Science Student specializing in Cyber Security.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: https://www.linkedin.com/in/anuj-mongia/
+
+🔭 Check out my projects in the pinned Repositories.
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,bash,c,cs,cpp,cmake,docker,flask,git,github,java,kali,linux,maven,mongodb,mysql,nodejs,opencv,postman,powershell,py,r,react,rust,sqlite,selenium,sklearn,tensorflow,ubuntu,vim,)](https://skillicons.dev)
+
+## Connect With Me
+
+http://www.linkedin.com/in/anuj-mongia
